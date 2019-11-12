@@ -16,11 +16,10 @@
 5) Lab 01 (Library Database) ---- 21/10/2019 & 11/11/2019
 
 
-Project Gudies:
+Project Guides:
 
 USN: 4MH17CS009 TO 4MH17CS087 ----- Prof. ANANDA KUMAR HN
 
 USN: 4MH17CS088 TO 4MH17CS114 ----- Prof. BHARATH KUMAR R
 
 USN: 4MH17CS115 TO 4MH16CS097 ----- Prof. DIVYA H N
-
